@@ -1,6 +1,9 @@
 # Connect 4 AI
 
 
+Built in python
+
+
 Description: An ascii based connect 4 game where user plays with computer on a duel match to see who winner is.
 
 
@@ -11,5 +14,3 @@ when its user's turn, gets to select slot between 0-6 where user can drop his to
 Whoever gets 4 slots in a row, whether vertically, horizontally or diagonally wins!!
 
 
-
-Built in python
